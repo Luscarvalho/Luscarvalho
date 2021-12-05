@@ -29,7 +29,7 @@
 <a href="https://myanimelist.net/profile/Luscarvalho"><img src="https://img.shields.io/badge/MAL-2E51A2?style=for-the-badge&logo=MyAnimeList&logoColor=white"/></a>\
 ![Discord](https://img.shields.io/badge/Luscarvalho%230101-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
 <a href="https://t.me/luscarvalho"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white" /></a> 
-![Gmail](https://img.shields.io/badge/luscarvalho999@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)
+<a href="mailto:luscarvalho999@gmail.com"><img src="https://img.shields.io/badge/luscarvalho999@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)"/></a>
   
 ---
 
