@@ -3,16 +3,17 @@
 
 <h2 align="center">Ferramentas e Linguagens <br/><br/>
   
-  ![C](https://img.shields.io/badge/C|C++-0D1117?style=for-the-badge&logo=C%2B%2B&logoColor=#EF2D5E)
-  ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=#EF2D5E)
-  ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=Java&logoColor=#EF2D5E)
-  ![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=23FF5B76)
-  ![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=23FF5B76)
-  ![MarkDown](https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=Markdown&logoColor=23FF5B76)
-  ![Vs Code](https://img.shields.io/badge/Visual%20studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=23FF5B76)
-  ![Eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=EclipseIDE&logoColor=23FF5B76)
-  ![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=Arduino&logoColor=23FF5B76)
-  ![Gimp](https://img.shields.io/badge/Gimp-0D1117?style=for-the-badge&logo=Gimp&logoColor=23FF5B76)
+  ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=C%2B%2B&logoColor=ff5b76)
+  ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=ff5b76)
+  ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=Java&logoColor=ff5b76)
+  ![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=ff5b76)
+  ![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=ff5b76)
+  ![MarkDown](https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=Markdown&logoColor=ff5b76) \
+  ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=Git&logoColor=ff5b76)
+  ![Vs Code](https://img.shields.io/badge/Visual%20studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=ff5b76)
+  ![Eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=EclipseIDE&logoColor=ff5b76)
+  ![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=Arduino&logoColor=ff5b76)
+  ![Gimp](https://img.shields.io/badge/Gimp-0D1117?style=for-the-badge&logo=Gimp&logoColor=ff5b76)
 </h2>
 
 <h2 align="center">Socials <br/><br/>
@@ -27,7 +28,7 @@
   <a href="mailto:luscarvalho999@gmail.com"><img src="https://img.shields.io/badge/luscarvalho999@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </h2>
 
-<h4 align="center">
+<h2 align="center">
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=2126uubpa2lusvkax73kbi6vi&redirect=true)
-</h4>
+</h2>
