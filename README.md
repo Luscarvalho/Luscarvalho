@@ -15,6 +15,9 @@
   ![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=Arduino&logoColor=ff5b76)
   ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=Git&logoColor=ff5b76)
   ![Gimp](https://img.shields.io/badge/Gimp-0D1117?style=for-the-badge&logo=Gimp&logoColor=ff5b76)
+  ![Photoshop](https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=Adobe-Photoshop&logoColor=ff5b76)
+  ![Illustrator](https://img.shields.io/badge/Illustrator-0D1117?style=for-the-badge&logo=Adobe-Illustrator&logoColor=ff5b76)
+  
 </h2>
 
 <h2 align="center">Socials <br/><br/>
