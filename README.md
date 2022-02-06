@@ -1,6 +1,6 @@
-<h2>
+<h2 align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF5B76&size=25&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+Github!+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF5B76&size=25&width=500&lines=Bem-vindo+ao+meu+Github!+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 </h2>
 
 <h2 align="center">Ferramentas e Linguagens <br/><br/>
