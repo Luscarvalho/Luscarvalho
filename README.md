@@ -20,7 +20,7 @@
 <h2 align="center">Socials <br/><br/>
   
   <a href="https://twitter.com/luscarvalhooo"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/luscarvalho.py"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>\
+  <a href="https://instagram.com/luscarvalho.py"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://last.fm/user/lucaralhooo"><img src="https://img.shields.io/badge/Last.fm-ff4a42?style=for-the-badge&logo=last.fm&logoColor=white"/></a>
   <a href="https://anilist.co/user/Luscarvalho/"><img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white"/></a>
   <a href="https://myanimelist.net/profile/Luscarvalho"><img src="https://img.shields.io/badge/MAL-2E51A2?style=for-the-badge&logo=MyAnimeList&logoColor=white"/></a>
