@@ -22,13 +22,13 @@
 
 <h2 align="center">Socials <br/><br/>
   
-  <a href="https://twitter.com/luscarvalhooo"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/luscarvalho.py"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/luscarvalh0"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/luscarvalh0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://anilist.co/user/Luscarvalho/"><img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white"/></a>
   <a href="https://myanimelist.net/profile/Luscarvalho"><img src="https://img.shields.io/badge/MAL-2E51A2?style=for-the-badge&logo=MyAnimeList&logoColor=white"/></a>
   <a href="https://steamcommunity.com/id/Luscarvalho"><img src="https://img.shields.io/badge/Steam-172B4D?style=for-the-badge&logo=Steam&logoColor=white"/></a> \
   <a href="https://last.fm/user/lucaralhooo"><img src="https://img.shields.io/badge/Last.fm-ff4a42?style=for-the-badge&logo=last.fm&logoColor=white"/></a>
-  ![Discord](https://img.shields.io/badge/Luscarvalho%230101-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
+  <a href="https://discord.com/users/458776046184169473"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
   <a href="https://t.me/luscarvalho"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white" /></a> 
   <a href="mailto:luscarvalho999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </h2>
