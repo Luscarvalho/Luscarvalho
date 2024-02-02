@@ -4,7 +4,7 @@
 
 # Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,dart,flutter,js,nodejs,vue,vscode,docker,git,figma,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,dart,flutter,js,ts,nodejs,react,tailwind,vscode,docker,git,figma,linux&theme=dark&perline=7)](https://skillicons.dev)
 
 # Connect with me
 
